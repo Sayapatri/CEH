@@ -1,0 +1,6 @@
+1. performt the host discovery using
+----Nmap , angry IP scanner
+2. perform port and sevicew discovery 
+-----perform port and sercive scanning  using megaping ,NetScanTools,sx tool, nmap and hping3
+3. perform the os 
+------using nmap script engine,Unoicorn scan,and identify os with ttl and tcp window size using wire shark
